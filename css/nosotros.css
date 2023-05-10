@@ -1,23 +1,28 @@
-body {
-    background-color:rgb(208, 207, 207) ;
-}
-
-#galeria .col-lg-4 {
-    padding: 25px;
-    margin: 0 !important;
-}
-
-#galeria img {
-    width: 100%;
-    height: 200px;
-}
-
-#galeria img:hover {
-    border: 5px solid #f7f7f7;
+.todo {
+    background-color: rgb(208, 207, 207) ;
 }
 
 .titulo {
+    color: aqua;
     text-shadow: 2px 2px black;
+}
+
+.sobre-nosotros-2 {
+    display: flex;
+}
+
+
+.sobre-nosotros {
+    display: flex;
+}
+
+.img {
+    margin-right: 15px;
+    margin-left: 100px;
+}
+
+.titulo-h3 {
+    text-shadow: 1px 1px black;
 }
 
 /* footer */
